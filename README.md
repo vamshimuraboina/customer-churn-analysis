@@ -31,6 +31,10 @@ Power BI dashboard shows:
 - Customer usage behavior comparison
 
 Dashboard screenshots are available in the `screenshots` folder.
+## Dashboard Preview
+
+![Customer Churn Dashboard](screenshots/Dashboard_overview.png)
+
 
 ## Key Insights
 - Customers on Basic plans show higher churn compared to Premium plans
@@ -38,4 +42,4 @@ Dashboard screenshots are available in the `screenshots` folder.
 - Certain regions have consistently higher churn rates
 - Higher usage customers tend to churn less
 
-## Folder Structure
+
