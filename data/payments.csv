@@ -1,0 +1,1001 @@
+customer_id,payment_method,payment_status
+1001,Debit Card,Success
+1002,Net Banking,Failed
+1003,Debit Card,Success
+1004,Net Banking,Failed
+1005,Credit Card,Success
+1006,UPI,Success
+1007,UPI,Success
+1008,UPI,Failed
+1009,UPI,Success
+1010,Credit Card,Success
+1011,UPI,Failed
+1012,Debit Card,Success
+1013,Debit Card,Success
+1014,UPI,Success
+1015,Debit Card,Success
+1016,Net Banking,Failed
+1017,Credit Card,Success
+1018,UPI,Success
+1019,UPI,Failed
+1020,Credit Card,Success
+1021,Debit Card,Success
+1022,Credit Card,Success
+1023,Credit Card,Success
+1024,Debit Card,Success
+1025,Credit Card,Failed
+1026,Debit Card,Success
+1027,Debit Card,Success
+1028,Credit Card,Success
+1029,Net Banking,Success
+1030,Debit Card,Failed
+1031,Credit Card,Failed
+1032,Debit Card,Success
+1033,Net Banking,Success
+1034,Net Banking,Success
+1035,UPI,Success
+1036,Debit Card,Success
+1037,Debit Card,Success
+1038,Credit Card,Success
+1039,Debit Card,Success
+1040,UPI,Success
+1041,Net Banking,Success
+1042,Net Banking,Success
+1043,UPI,Success
+1044,Debit Card,Success
+1045,Debit Card,Failed
+1046,UPI,Success
+1047,Credit Card,Success
+1048,Net Banking,Success
+1049,UPI,Success
+1050,UPI,Failed
+1051,Debit Card,Success
+1052,Net Banking,Success
+1053,Debit Card,Failed
+1054,UPI,Success
+1055,Credit Card,Success
+1056,Net Banking,Success
+1057,UPI,Success
+1058,UPI,Success
+1059,Credit Card,Success
+1060,UPI,Success
+1061,UPI,Failed
+1062,Net Banking,Success
+1063,Net Banking,Success
+1064,Net Banking,Success
+1065,Debit Card,Success
+1066,Credit Card,Success
+1067,Net Banking,Failed
+1068,Debit Card,Success
+1069,Debit Card,Success
+1070,Credit Card,Success
+1071,Credit Card,Success
+1072,UPI,Failed
+1073,Debit Card,Success
+1074,Net Banking,Failed
+1075,Credit Card,Success
+1076,Debit Card,Success
+1077,Net Banking,Success
+1078,Debit Card,Success
+1079,Credit Card,Success
+1080,UPI,Success
+1081,Debit Card,Success
+1082,Net Banking,Success
+1083,Credit Card,Success
+1084,UPI,Success
+1085,Net Banking,Failed
+1086,Net Banking,Success
+1087,Net Banking,Success
+1088,Debit Card,Success
+1089,Credit Card,Success
+1090,Net Banking,Success
+1091,Debit Card,Success
+1092,Credit Card,Success
+1093,Credit Card,Failed
+1094,Debit Card,Success
+1095,Debit Card,Success
+1096,Net Banking,Success
+1097,Credit Card,Success
+1098,UPI,Success
+1099,Debit Card,Success
+1100,Credit Card,Success
+1101,Credit Card,Success
+1102,Net Banking,Success
+1103,UPI,Success
+1104,Net Banking,Success
+1105,UPI,Success
+1106,UPI,Failed
+1107,Debit Card,Failed
+1108,Credit Card,Success
+1109,Credit Card,Success
+1110,Credit Card,Success
+1111,UPI,Success
+1112,Credit Card,Success
+1113,Debit Card,Success
+1114,UPI,Success
+1115,UPI,Success
+1116,UPI,Success
+1117,UPI,Failed
+1118,Debit Card,Success
+1119,Credit Card,Success
+1120,Debit Card,Success
+1121,Credit Card,Success
+1122,Debit Card,Success
+1123,Net Banking,Success
+1124,Net Banking,Failed
+1125,Net Banking,Success
+1126,Net Banking,Success
+1127,UPI,Success
+1128,UPI,Success
+1129,Debit Card,Success
+1130,Debit Card,Failed
+1131,Net Banking,Failed
+1132,Credit Card,Success
+1133,Net Banking,Success
+1134,Debit Card,Success
+1135,Net Banking,Success
+1136,Debit Card,Failed
+1137,Net Banking,Success
+1138,Credit Card,Success
+1139,Net Banking,Success
+1140,Credit Card,Success
+1141,Credit Card,Failed
+1142,Debit Card,Success
+1143,Credit Card,Success
+1144,UPI,Success
+1145,UPI,Success
+1146,UPI,Success
+1147,Debit Card,Success
+1148,UPI,Success
+1149,Debit Card,Success
+1150,Debit Card,Success
+1151,UPI,Success
+1152,Credit Card,Success
+1153,Net Banking,Success
+1154,Debit Card,Success
+1155,UPI,Success
+1156,Debit Card,Success
+1157,Credit Card,Success
+1158,Credit Card,Failed
+1159,UPI,Success
+1160,Debit Card,Success
+1161,Net Banking,Success
+1162,Net Banking,Success
+1163,Debit Card,Success
+1164,Debit Card,Success
+1165,Debit Card,Success
+1166,UPI,Success
+1167,Credit Card,Success
+1168,Net Banking,Success
+1169,UPI,Success
+1170,Debit Card,Success
+1171,Debit Card,Success
+1172,Credit Card,Failed
+1173,Debit Card,Success
+1174,UPI,Success
+1175,UPI,Failed
+1176,Credit Card,Success
+1177,UPI,Success
+1178,Net Banking,Success
+1179,UPI,Failed
+1180,UPI,Failed
+1181,UPI,Success
+1182,Net Banking,Success
+1183,Debit Card,Success
+1184,UPI,Success
+1185,Credit Card,Success
+1186,Net Banking,Success
+1187,Credit Card,Success
+1188,UPI,Success
+1189,Credit Card,Success
+1190,UPI,Success
+1191,Net Banking,Success
+1192,Credit Card,Failed
+1193,Credit Card,Success
+1194,UPI,Success
+1195,UPI,Success
+1196,Debit Card,Success
+1197,UPI,Failed
+1198,UPI,Success
+1199,Debit Card,Success
+1200,UPI,Success
+1201,UPI,Success
+1202,Debit Card,Success
+1203,Net Banking,Success
+1204,Net Banking,Success
+1205,UPI,Success
+1206,UPI,Success
+1207,Debit Card,Failed
+1208,Debit Card,Success
+1209,Net Banking,Failed
+1210,Credit Card,Success
+1211,UPI,Success
+1212,Credit Card,Success
+1213,Credit Card,Success
+1214,Debit Card,Success
+1215,UPI,Success
+1216,UPI,Success
+1217,Debit Card,Success
+1218,Credit Card,Success
+1219,Debit Card,Success
+1220,Net Banking,Success
+1221,UPI,Success
+1222,Net Banking,Success
+1223,Debit Card,Success
+1224,UPI,Success
+1225,Net Banking,Success
+1226,Net Banking,Success
+1227,Credit Card,Success
+1228,UPI,Success
+1229,Net Banking,Success
+1230,Net Banking,Success
+1231,Credit Card,Success
+1232,Net Banking,Success
+1233,Net Banking,Success
+1234,Net Banking,Success
+1235,Credit Card,Failed
+1236,Net Banking,Success
+1237,Net Banking,Success
+1238,UPI,Success
+1239,UPI,Success
+1240,Credit Card,Success
+1241,Debit Card,Success
+1242,UPI,Failed
+1243,Credit Card,Success
+1244,Net Banking,Success
+1245,Net Banking,Failed
+1246,Credit Card,Failed
+1247,Net Banking,Success
+1248,Net Banking,Failed
+1249,Debit Card,Success
+1250,Net Banking,Failed
+1251,UPI,Success
+1252,Net Banking,Success
+1253,Credit Card,Success
+1254,Debit Card,Success
+1255,Net Banking,Success
+1256,Credit Card,Success
+1257,UPI,Success
+1258,Net Banking,Success
+1259,Debit Card,Success
+1260,Net Banking,Success
+1261,Credit Card,Success
+1262,Debit Card,Success
+1263,Net Banking,Failed
+1264,UPI,Success
+1265,Debit Card,Success
+1266,UPI,Success
+1267,Credit Card,Success
+1268,Net Banking,Success
+1269,UPI,Success
+1270,Credit Card,Success
+1271,Net Banking,Success
+1272,Credit Card,Success
+1273,UPI,Success
+1274,Credit Card,Failed
+1275,Debit Card,Success
+1276,Net Banking,Success
+1277,Credit Card,Success
+1278,UPI,Success
+1279,Net Banking,Success
+1280,Debit Card,Success
+1281,Net Banking,Failed
+1282,Debit Card,Success
+1283,Net Banking,Success
+1284,Credit Card,Success
+1285,Credit Card,Success
+1286,UPI,Success
+1287,Debit Card,Success
+1288,UPI,Success
+1289,Credit Card,Success
+1290,Debit Card,Success
+1291,UPI,Success
+1292,UPI,Success
+1293,UPI,Success
+1294,UPI,Success
+1295,UPI,Success
+1296,Debit Card,Success
+1297,UPI,Success
+1298,Debit Card,Success
+1299,UPI,Success
+1300,Credit Card,Success
+1301,Credit Card,Success
+1302,UPI,Success
+1303,Net Banking,Success
+1304,Credit Card,Success
+1305,Debit Card,Failed
+1306,UPI,Success
+1307,Debit Card,Success
+1308,Net Banking,Failed
+1309,UPI,Success
+1310,Credit Card,Success
+1311,Debit Card,Success
+1312,Credit Card,Success
+1313,Credit Card,Failed
+1314,UPI,Success
+1315,Debit Card,Success
+1316,Net Banking,Success
+1317,Credit Card,Success
+1318,UPI,Success
+1319,UPI,Success
+1320,Net Banking,Success
+1321,UPI,Success
+1322,Credit Card,Success
+1323,UPI,Success
+1324,Debit Card,Success
+1325,Debit Card,Success
+1326,Credit Card,Success
+1327,Debit Card,Failed
+1328,Net Banking,Success
+1329,UPI,Success
+1330,Credit Card,Success
+1331,Net Banking,Failed
+1332,UPI,Success
+1333,Net Banking,Success
+1334,Credit Card,Success
+1335,Credit Card,Failed
+1336,Net Banking,Success
+1337,UPI,Success
+1338,Debit Card,Failed
+1339,Debit Card,Success
+1340,Net Banking,Success
+1341,Credit Card,Success
+1342,UPI,Failed
+1343,UPI,Success
+1344,Credit Card,Failed
+1345,Debit Card,Success
+1346,UPI,Success
+1347,Net Banking,Failed
+1348,Debit Card,Success
+1349,Net Banking,Success
+1350,Debit Card,Success
+1351,Credit Card,Success
+1352,Net Banking,Success
+1353,Net Banking,Success
+1354,Credit Card,Success
+1355,Net Banking,Success
+1356,Debit Card,Success
+1357,UPI,Failed
+1358,UPI,Success
+1359,Credit Card,Success
+1360,Debit Card,Success
+1361,Net Banking,Success
+1362,Net Banking,Success
+1363,UPI,Success
+1364,Net Banking,Failed
+1365,UPI,Failed
+1366,Credit Card,Success
+1367,Net Banking,Failed
+1368,Debit Card,Success
+1369,Net Banking,Success
+1370,UPI,Failed
+1371,Credit Card,Success
+1372,UPI,Success
+1373,Net Banking,Success
+1374,UPI,Success
+1375,UPI,Success
+1376,Credit Card,Success
+1377,Debit Card,Failed
+1378,Net Banking,Success
+1379,Credit Card,Success
+1380,Debit Card,Success
+1381,UPI,Success
+1382,Debit Card,Success
+1383,UPI,Success
+1384,UPI,Failed
+1385,Credit Card,Failed
+1386,UPI,Success
+1387,Credit Card,Failed
+1388,Debit Card,Success
+1389,Debit Card,Success
+1390,UPI,Success
+1391,Credit Card,Success
+1392,UPI,Success
+1393,Credit Card,Success
+1394,Credit Card,Success
+1395,Credit Card,Failed
+1396,Debit Card,Success
+1397,Credit Card,Success
+1398,Debit Card,Success
+1399,Credit Card,Success
+1400,Debit Card,Success
+1401,Net Banking,Success
+1402,Debit Card,Success
+1403,Debit Card,Success
+1404,UPI,Success
+1405,Credit Card,Success
+1406,Net Banking,Success
+1407,UPI,Success
+1408,Credit Card,Success
+1409,Net Banking,Success
+1410,Net Banking,Success
+1411,Net Banking,Success
+1412,Credit Card,Success
+1413,Net Banking,Success
+1414,Net Banking,Success
+1415,UPI,Success
+1416,Debit Card,Failed
+1417,Credit Card,Failed
+1418,Debit Card,Success
+1419,UPI,Success
+1420,Debit Card,Success
+1421,Net Banking,Failed
+1422,Net Banking,Failed
+1423,Credit Card,Success
+1424,Credit Card,Success
+1425,Credit Card,Success
+1426,UPI,Success
+1427,Credit Card,Success
+1428,UPI,Success
+1429,Net Banking,Failed
+1430,Debit Card,Success
+1431,Net Banking,Success
+1432,Net Banking,Failed
+1433,Net Banking,Failed
+1434,Credit Card,Success
+1435,Credit Card,Success
+1436,Credit Card,Success
+1437,Debit Card,Success
+1438,Credit Card,Failed
+1439,UPI,Failed
+1440,Net Banking,Success
+1441,Debit Card,Success
+1442,Debit Card,Success
+1443,Debit Card,Failed
+1444,Debit Card,Success
+1445,Debit Card,Success
+1446,UPI,Success
+1447,Net Banking,Success
+1448,Debit Card,Success
+1449,Net Banking,Success
+1450,Credit Card,Failed
+1451,Debit Card,Failed
+1452,Debit Card,Success
+1453,Net Banking,Success
+1454,Debit Card,Success
+1455,Debit Card,Success
+1456,Debit Card,Success
+1457,UPI,Failed
+1458,UPI,Success
+1459,Debit Card,Success
+1460,UPI,Failed
+1461,Credit Card,Failed
+1462,Debit Card,Success
+1463,Credit Card,Success
+1464,Net Banking,Success
+1465,Credit Card,Success
+1466,Net Banking,Success
+1467,Debit Card,Success
+1468,Net Banking,Failed
+1469,Net Banking,Success
+1470,Credit Card,Success
+1471,Credit Card,Success
+1472,Credit Card,Success
+1473,Debit Card,Failed
+1474,Debit Card,Success
+1475,Credit Card,Success
+1476,Debit Card,Success
+1477,Debit Card,Success
+1478,Net Banking,Success
+1479,Net Banking,Success
+1480,Credit Card,Success
+1481,Debit Card,Success
+1482,Net Banking,Success
+1483,UPI,Failed
+1484,Debit Card,Failed
+1485,UPI,Success
+1486,Credit Card,Success
+1487,Debit Card,Success
+1488,Credit Card,Success
+1489,Credit Card,Success
+1490,Credit Card,Failed
+1491,Credit Card,Failed
+1492,Credit Card,Success
+1493,Debit Card,Success
+1494,UPI,Failed
+1495,Debit Card,Success
+1496,Debit Card,Success
+1497,Debit Card,Success
+1498,Net Banking,Success
+1499,Net Banking,Success
+1500,Debit Card,Success
+1501,UPI,Success
+1502,Debit Card,Success
+1503,Credit Card,Success
+1504,Net Banking,Success
+1505,Net Banking,Success
+1506,Debit Card,Success
+1507,Debit Card,Failed
+1508,UPI,Success
+1509,UPI,Success
+1510,Credit Card,Failed
+1511,Debit Card,Success
+1512,Debit Card,Success
+1513,Debit Card,Success
+1514,Net Banking,Success
+1515,Credit Card,Success
+1516,UPI,Failed
+1517,Net Banking,Success
+1518,Net Banking,Success
+1519,Net Banking,Failed
+1520,Net Banking,Success
+1521,Credit Card,Success
+1522,Debit Card,Success
+1523,UPI,Success
+1524,UPI,Success
+1525,Net Banking,Success
+1526,Net Banking,Success
+1527,Credit Card,Success
+1528,Net Banking,Success
+1529,UPI,Success
+1530,UPI,Success
+1531,Debit Card,Success
+1532,Debit Card,Success
+1533,UPI,Failed
+1534,UPI,Success
+1535,Credit Card,Success
+1536,Credit Card,Success
+1537,UPI,Success
+1538,Net Banking,Success
+1539,Debit Card,Success
+1540,UPI,Failed
+1541,Net Banking,Success
+1542,UPI,Success
+1543,Debit Card,Success
+1544,Debit Card,Success
+1545,Credit Card,Success
+1546,Credit Card,Success
+1547,Credit Card,Failed
+1548,Credit Card,Success
+1549,Debit Card,Success
+1550,Net Banking,Success
+1551,Net Banking,Success
+1552,Net Banking,Success
+1553,UPI,Success
+1554,Credit Card,Success
+1555,Credit Card,Success
+1556,Debit Card,Success
+1557,Debit Card,Success
+1558,UPI,Failed
+1559,UPI,Success
+1560,Net Banking,Success
+1561,Debit Card,Failed
+1562,Credit Card,Success
+1563,Net Banking,Success
+1564,Credit Card,Success
+1565,Net Banking,Success
+1566,Credit Card,Success
+1567,UPI,Success
+1568,Net Banking,Success
+1569,Credit Card,Success
+1570,Credit Card,Success
+1571,Debit Card,Success
+1572,Net Banking,Success
+1573,Credit Card,Success
+1574,Debit Card,Success
+1575,Credit Card,Success
+1576,Net Banking,Success
+1577,UPI,Success
+1578,Net Banking,Success
+1579,Net Banking,Success
+1580,Credit Card,Success
+1581,Credit Card,Failed
+1582,Net Banking,Success
+1583,Debit Card,Success
+1584,Debit Card,Success
+1585,Debit Card,Success
+1586,Credit Card,Success
+1587,Credit Card,Success
+1588,Net Banking,Success
+1589,UPI,Failed
+1590,Credit Card,Success
+1591,Net Banking,Success
+1592,Net Banking,Success
+1593,UPI,Failed
+1594,Debit Card,Success
+1595,Net Banking,Success
+1596,Net Banking,Failed
+1597,Net Banking,Success
+1598,Debit Card,Success
+1599,Debit Card,Success
+1600,UPI,Success
+1601,Credit Card,Success
+1602,Debit Card,Success
+1603,Credit Card,Success
+1604,Credit Card,Success
+1605,Debit Card,Success
+1606,Net Banking,Success
+1607,UPI,Success
+1608,Credit Card,Success
+1609,Net Banking,Success
+1610,Debit Card,Success
+1611,Credit Card,Success
+1612,Credit Card,Success
+1613,Credit Card,Success
+1614,Net Banking,Failed
+1615,Net Banking,Success
+1616,Net Banking,Success
+1617,Credit Card,Success
+1618,Credit Card,Success
+1619,UPI,Success
+1620,UPI,Success
+1621,Net Banking,Failed
+1622,Net Banking,Success
+1623,Debit Card,Success
+1624,Net Banking,Success
+1625,UPI,Success
+1626,UPI,Failed
+1627,UPI,Success
+1628,Credit Card,Success
+1629,Credit Card,Success
+1630,Net Banking,Success
+1631,Debit Card,Success
+1632,Debit Card,Success
+1633,Debit Card,Success
+1634,Credit Card,Success
+1635,UPI,Success
+1636,UPI,Success
+1637,Credit Card,Success
+1638,Debit Card,Success
+1639,Debit Card,Success
+1640,Net Banking,Success
+1641,Net Banking,Success
+1642,Debit Card,Success
+1643,Credit Card,Failed
+1644,Debit Card,Success
+1645,Net Banking,Success
+1646,Debit Card,Success
+1647,Credit Card,Success
+1648,UPI,Success
+1649,Credit Card,Failed
+1650,Credit Card,Success
+1651,Net Banking,Failed
+1652,Credit Card,Success
+1653,Credit Card,Success
+1654,Net Banking,Success
+1655,Net Banking,Success
+1656,UPI,Success
+1657,Debit Card,Failed
+1658,Credit Card,Failed
+1659,Net Banking,Failed
+1660,UPI,Success
+1661,Debit Card,Success
+1662,Net Banking,Success
+1663,Debit Card,Success
+1664,Debit Card,Success
+1665,Credit Card,Success
+1666,Credit Card,Success
+1667,Net Banking,Success
+1668,Debit Card,Success
+1669,Net Banking,Success
+1670,Net Banking,Success
+1671,Debit Card,Success
+1672,Net Banking,Success
+1673,Debit Card,Success
+1674,Debit Card,Success
+1675,Debit Card,Success
+1676,Debit Card,Success
+1677,UPI,Success
+1678,Debit Card,Success
+1679,Credit Card,Success
+1680,Credit Card,Success
+1681,Credit Card,Success
+1682,Debit Card,Success
+1683,Credit Card,Success
+1684,UPI,Success
+1685,Net Banking,Success
+1686,Debit Card,Success
+1687,Credit Card,Success
+1688,UPI,Success
+1689,Net Banking,Success
+1690,UPI,Failed
+1691,Credit Card,Success
+1692,UPI,Success
+1693,Net Banking,Success
+1694,Credit Card,Success
+1695,Net Banking,Success
+1696,UPI,Success
+1697,Debit Card,Success
+1698,Debit Card,Failed
+1699,Debit Card,Success
+1700,Debit Card,Success
+1701,Net Banking,Failed
+1702,Debit Card,Success
+1703,Net Banking,Success
+1704,Credit Card,Success
+1705,Debit Card,Success
+1706,Net Banking,Success
+1707,Debit Card,Failed
+1708,Debit Card,Success
+1709,Debit Card,Success
+1710,Net Banking,Failed
+1711,UPI,Success
+1712,Debit Card,Success
+1713,Debit Card,Success
+1714,Credit Card,Failed
+1715,UPI,Success
+1716,Net Banking,Success
+1717,Credit Card,Success
+1718,Debit Card,Success
+1719,Credit Card,Failed
+1720,Credit Card,Success
+1721,Debit Card,Success
+1722,UPI,Failed
+1723,UPI,Success
+1724,Credit Card,Success
+1725,Debit Card,Success
+1726,Net Banking,Success
+1727,Credit Card,Success
+1728,Net Banking,Failed
+1729,Credit Card,Success
+1730,Credit Card,Success
+1731,Debit Card,Success
+1732,Debit Card,Success
+1733,Net Banking,Success
+1734,Net Banking,Success
+1735,UPI,Failed
+1736,Debit Card,Success
+1737,Credit Card,Success
+1738,Credit Card,Success
+1739,UPI,Failed
+1740,Debit Card,Success
+1741,Credit Card,Success
+1742,UPI,Success
+1743,UPI,Failed
+1744,Credit Card,Success
+1745,Credit Card,Success
+1746,Net Banking,Success
+1747,Debit Card,Success
+1748,Net Banking,Success
+1749,UPI,Success
+1750,Credit Card,Success
+1751,Net Banking,Failed
+1752,UPI,Failed
+1753,Debit Card,Success
+1754,Credit Card,Success
+1755,Net Banking,Success
+1756,Debit Card,Success
+1757,Net Banking,Success
+1758,UPI,Success
+1759,Debit Card,Success
+1760,Net Banking,Success
+1761,Debit Card,Success
+1762,UPI,Success
+1763,Debit Card,Success
+1764,Net Banking,Success
+1765,UPI,Failed
+1766,Credit Card,Success
+1767,Net Banking,Success
+1768,Net Banking,Success
+1769,UPI,Success
+1770,UPI,Failed
+1771,Credit Card,Success
+1772,Net Banking,Success
+1773,UPI,Success
+1774,Credit Card,Success
+1775,Credit Card,Failed
+1776,UPI,Success
+1777,Net Banking,Success
+1778,Debit Card,Success
+1779,Debit Card,Success
+1780,Credit Card,Success
+1781,Debit Card,Success
+1782,Debit Card,Success
+1783,UPI,Success
+1784,Credit Card,Failed
+1785,Net Banking,Success
+1786,Credit Card,Success
+1787,UPI,Success
+1788,Debit Card,Success
+1789,Net Banking,Success
+1790,Credit Card,Success
+1791,Debit Card,Success
+1792,Credit Card,Success
+1793,Net Banking,Success
+1794,Credit Card,Success
+1795,Credit Card,Success
+1796,Credit Card,Success
+1797,Debit Card,Failed
+1798,Net Banking,Failed
+1799,Net Banking,Success
+1800,Debit Card,Success
+1801,Debit Card,Success
+1802,Debit Card,Success
+1803,UPI,Failed
+1804,Credit Card,Success
+1805,Credit Card,Success
+1806,Net Banking,Success
+1807,Credit Card,Success
+1808,UPI,Success
+1809,Debit Card,Success
+1810,Net Banking,Success
+1811,Net Banking,Success
+1812,Credit Card,Success
+1813,Net Banking,Success
+1814,Debit Card,Success
+1815,Net Banking,Success
+1816,Debit Card,Success
+1817,UPI,Failed
+1818,UPI,Failed
+1819,Debit Card,Failed
+1820,Credit Card,Success
+1821,Net Banking,Success
+1822,Credit Card,Success
+1823,Net Banking,Failed
+1824,UPI,Failed
+1825,UPI,Failed
+1826,UPI,Success
+1827,Net Banking,Failed
+1828,UPI,Success
+1829,UPI,Success
+1830,UPI,Success
+1831,UPI,Success
+1832,Credit Card,Success
+1833,UPI,Success
+1834,UPI,Success
+1835,Credit Card,Success
+1836,Credit Card,Failed
+1837,Net Banking,Success
+1838,Debit Card,Success
+1839,UPI,Success
+1840,UPI,Failed
+1841,UPI,Success
+1842,Net Banking,Success
+1843,UPI,Success
+1844,Debit Card,Success
+1845,Credit Card,Success
+1846,Net Banking,Failed
+1847,Credit Card,Success
+1848,UPI,Success
+1849,UPI,Failed
+1850,UPI,Failed
+1851,Debit Card,Success
+1852,Debit Card,Failed
+1853,Net Banking,Success
+1854,Credit Card,Success
+1855,UPI,Success
+1856,UPI,Success
+1857,UPI,Success
+1858,UPI,Success
+1859,Debit Card,Success
+1860,Credit Card,Success
+1861,Credit Card,Success
+1862,Net Banking,Success
+1863,Debit Card,Success
+1864,UPI,Success
+1865,Credit Card,Success
+1866,Credit Card,Success
+1867,Debit Card,Success
+1868,Net Banking,Success
+1869,Net Banking,Success
+1870,UPI,Failed
+1871,Net Banking,Success
+1872,Credit Card,Success
+1873,Net Banking,Success
+1874,UPI,Failed
+1875,Credit Card,Success
+1876,Net Banking,Success
+1877,Net Banking,Success
+1878,Debit Card,Success
+1879,UPI,Success
+1880,Net Banking,Success
+1881,Debit Card,Success
+1882,Credit Card,Success
+1883,Debit Card,Success
+1884,Debit Card,Success
+1885,Net Banking,Success
+1886,Net Banking,Success
+1887,Net Banking,Failed
+1888,Debit Card,Success
+1889,Credit Card,Success
+1890,UPI,Success
+1891,Debit Card,Success
+1892,Net Banking,Success
+1893,UPI,Success
+1894,Credit Card,Failed
+1895,UPI,Success
+1896,Net Banking,Success
+1897,Debit Card,Success
+1898,Debit Card,Success
+1899,Net Banking,Success
+1900,Debit Card,Success
+1901,Net Banking,Success
+1902,Debit Card,Failed
+1903,Debit Card,Success
+1904,Debit Card,Failed
+1905,Credit Card,Success
+1906,Credit Card,Success
+1907,Net Banking,Success
+1908,Credit Card,Success
+1909,Net Banking,Failed
+1910,UPI,Success
+1911,UPI,Success
+1912,Credit Card,Success
+1913,UPI,Success
+1914,UPI,Failed
+1915,Debit Card,Success
+1916,Debit Card,Success
+1917,Net Banking,Success
+1918,UPI,Failed
+1919,Net Banking,Success
+1920,Net Banking,Success
+1921,UPI,Success
+1922,Credit Card,Success
+1923,UPI,Success
+1924,Debit Card,Success
+1925,UPI,Success
+1926,Credit Card,Success
+1927,Net Banking,Success
+1928,Net Banking,Success
+1929,Debit Card,Success
+1930,Debit Card,Failed
+1931,Debit Card,Failed
+1932,Net Banking,Success
+1933,Debit Card,Success
+1934,UPI,Success
+1935,Net Banking,Success
+1936,Credit Card,Success
+1937,Net Banking,Success
+1938,UPI,Success
+1939,UPI,Failed
+1940,Debit Card,Success
+1941,Net Banking,Success
+1942,Net Banking,Success
+1943,Net Banking,Success
+1944,Credit Card,Success
+1945,Debit Card,Success
+1946,UPI,Success
+1947,UPI,Success
+1948,Debit Card,Failed
+1949,UPI,Success
+1950,UPI,Success
+1951,Debit Card,Success
+1952,UPI,Success
+1953,Net Banking,Success
+1954,Credit Card,Success
+1955,Debit Card,Failed
+1956,Credit Card,Failed
+1957,UPI,Success
+1958,UPI,Failed
+1959,Net Banking,Success
+1960,Debit Card,Success
+1961,UPI,Success
+1962,Debit Card,Success
+1963,Debit Card,Success
+1964,Debit Card,Success
+1965,Debit Card,Success
+1966,Debit Card,Success
+1967,Credit Card,Success
+1968,Net Banking,Failed
+1969,Debit Card,Success
+1970,Credit Card,Success
+1971,UPI,Success
+1972,Debit Card,Success
+1973,UPI,Success
+1974,Debit Card,Success
+1975,Credit Card,Success
+1976,Credit Card,Success
+1977,Credit Card,Success
+1978,Net Banking,Success
+1979,UPI,Success
+1980,Net Banking,Success
+1981,Debit Card,Failed
+1982,UPI,Success
+1983,Credit Card,Success
+1984,UPI,Success
+1985,Credit Card,Success
+1986,Net Banking,Failed
+1987,Net Banking,Success
+1988,Credit Card,Success
+1989,Credit Card,Success
+1990,Debit Card,Success
+1991,Net Banking,Success
+1992,Net Banking,Success
+1993,Debit Card,Success
+1994,Net Banking,Success
+1995,Credit Card,Success
+1996,UPI,Failed
+1997,UPI,Success
+1998,Net Banking,Success
+1999,Debit Card,Success
+2000,Credit Card,Success
