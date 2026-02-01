@@ -33,7 +33,7 @@ Power BI dashboard shows:
 Dashboard screenshots are available in the `screenshots` folder.
 ## Dashboard Preview
 
-![Customer Churn Dashboard](screenshots/Dashboard_overview.png)
+![Customer Churn Dashboard](screenshots/Dashboard_Overview.png)
 
 
 ## Key Insights
